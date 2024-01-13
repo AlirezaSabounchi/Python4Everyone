@@ -1,2 +1,2 @@
 # Python4Everyone
-This repository contains my personal solutions to the 'Python for Everyone' course offered by Coursera
+This repository contains my personal solutions to the 'Python for Everyone' course offered by Coursera. It's a comprehensive collection of code snippets and detailed explanations, demonstrating my understanding of Python programming concepts. Please note that this is intended for reference and learning. I encourage learners to try the problems themselves before referring to these solutions.
